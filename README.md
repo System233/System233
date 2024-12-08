@@ -1,7 +1,7 @@
 
 
 <details>
-<summary title="Click for details">
+<summary title="Click to decrypt">
  
 ### aʖ𝙹⚍ℸ ̣  s||ᓭℸ ̣ ᒷᒲ233 👋
 
