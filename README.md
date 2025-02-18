@@ -3,11 +3,12 @@
 <details>
 <summary title="Click to decrypt">
  
-![System233](https://github.com/user-attachments/assets/ef5d12e1-768d-4701-ab6a-b89dfe88d763)
+### About System233 👋
+![System233](https://github.com/user-attachments/assets/5f86a55a-4df3-4350-9524-922577b152f0)
+
 
 </summary>
 
- ### About System233 👋
 - 🛠️ **Master of Rebuilding**: A true advocate for "if it’s not good enough, rewrite it!"—always creating custom solutions when existing libraries don't meet expectations.
 - 🌱 **Languages I Use**: Primarily works with `C++`, `Python`, and `TypeScript`, constantly exploring new tools to build robust, efficient systems.
 - 🧪 **Passionate Developer**: Writes a variety of small but powerful tools, including parsers, web crawlers, Tampermonkey scripts, and other utilities to simplify everyday problems.
