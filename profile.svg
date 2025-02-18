@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220">
   <defs>
     <style type="text/css">
       @font-face {
@@ -9,7 +9,7 @@
       text {
         font-family: 'SGA';
         font-size: 20px;
-        /* fill: white; */
+        fill: white;
       }
 
       .bold {
@@ -19,7 +19,6 @@
   </defs>
 
   <text>
-    <tspan x="5" y="32" style="font-size: 1.25em;">About System233</tspan>
     <tspan x="20" dy="32" class="bold">
       • 🛠️ Master of Rebuilding:
     </tspan>
