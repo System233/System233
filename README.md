@@ -1,10 +1,10 @@
 
 
 <details>
-<summary title="Click to decrypt">
+<summary title="Click to decrypt" id="summary">
  
 ### About System233 👋
-![System233](https://github.com/user-attachments/assets/5f86a55a-4df3-4350-9524-922577b152f0)
+[![System233](https://github.com/user-attachments/assets/5f86a55a-4df3-4350-9524-922577b152f0)](#user-content-summary)
 
 
 </summary>
