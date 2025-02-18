@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280">
   <defs>
     <style type="text/css">
       @font-face {
@@ -8,8 +8,8 @@
 
       text {
         font-family: 'SGA';
-        font-size: 16px;
-        fill: white;
+        font-size: 20px;
+        /* fill: white; */
       }
 
       .bold {
@@ -19,35 +19,36 @@
   </defs>
 
   <text>
-    <tspan x="5" y="30" style="font-size: 1.5em;">About System233</tspan>
-    <tspan x="20" dy="22" class="bold">
+    <tspan x="5" y="32" style="font-size: 1.25em;">About System233</tspan>
+    <tspan x="20" dy="32" class="bold">
       • 🛠️ Master of Rebuilding:
     </tspan>
     <tspan dx="0" dy="0">
       A true advocate for &quot;if it’s not good enough, rewrite it!&quot;—always
     </tspan>
-    <tspan x="46" dy="15.5">creating custom solutions when existing libraries don't meet expectations.</tspan>
-    <tspan x="20" dy="22" class="bold">
+    <tspan x="46" dy="24">creating custom solutions when existing libraries don't meet expectations.</tspan>
+    <tspan x="20" dy="30" class="bold">
       • 🧪 Passionate Developer:
     </tspan>
     <tspan dx="0" dy="0">
-      Writes a variety of small but powerful tools, including parsers, web crawlers,
+      Writes a variety of small but powerful tools, including parsers,
     </tspan>
-    <tspan x="46" dy="15.5"> Tampermonkey scripts, and other utilities to simplify everyday problems.</tspan>
-    <tspan x="20" dy="22" class="bold">
+    <tspan x="46" dy="24"> web crawlers, Tampermonkey scripts, and other utilities to simplify everyday problems.
+    </tspan>
+    <tspan x="20" dy="30" class="bold">
       • ⚡Reverse Engineering Enthusiast:
     </tspan>
     <tspan dx="0" dy="0">
-      Enjoys the occasional challenge of reverse engineering software and
+      Enjoys the occasional challenge of reverse engineering
     </tspan>
-    <tspan x="46" dy="15.5">cracking the code to understand how things work under the hood.</tspan>
-    <tspan x="20" dy="22" class="bold">
+    <tspan x="46" dy="24"> software and cracking the code to understand how things work under the hood.</tspan>
+    <tspan x="20" dy="30" class="bold">
       • ❌ Challenger at Heart:
     </tspan>
     <tspan dx="0" dy="0">
-      I shy away from mundane, repetitive tasks—if there’s no challenge, I’m
+      I shy away from mundane, repetitive tasks—if there’s
     </tspan>
-    <tspan x="46" dy="15.5">not interested.</tspan>
+    <tspan x="46" dy="24"> no challenge, I’m not interested.</tspan>
 
   </text>
 </svg>
