@@ -4,8 +4,7 @@
 <summary title="Click to decrypt" id="summary">
  
 ### About System233 👋
-[![System233](https://github.com/user-attachments/assets/5f86a55a-4df3-4350-9524-922577b152f0)](#user-content-summary)
-
+[![System233](https://github.com/user-attachments/assets/a10e9c35-4ab4-4ac3-b4f5-27737bee19da)](#user-content-summary)
 
 </summary>
 
